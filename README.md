@@ -1,8 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sumaia Safdari</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
-<img src"https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif" width="250px" hight="250px" alt"Sumaia Safdari_frontweb developer" align="right">
-
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="250px" height="250px" alt="Esmailkeyhan_Developer" align="right">
 - 🔭 I’m currently working on **My Personal web**
 
 - 🌱 I’m currently learning **Github, Javascript**
